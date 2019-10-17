@@ -1,0 +1,1 @@
+{  "name": "ego-middleware",  "version": "0.0.1",  "description": "",  "title": "Ego Middleware API",  "url": "http://localhost:8080",  "sampleUrl": false,  "defaultVersion": "0.0.0",  "apidoc": "0.3.0",  "generator": {    "name": "apidoc",    "time": "2019-10-17T15:15:17.343Z",    "url": "http://apidocjs.com",    "version": "0.17.7"  }}
